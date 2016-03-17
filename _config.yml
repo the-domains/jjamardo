@@ -1,14 +1,26 @@
-layout_spectrum: 0.37524
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9073816
 color:
   saturation: 0.1705821
+  brandStrength: 0.8548387
   lightness: 0.8898167
-  brandStrength: 0.863307
-  rhythmicContrast: 0.3725629
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#0080CF'
+    - '#6ECEEA'
+    - '#C6EAF0'
+    - '#050202'
+    - '#6E8877'
+  rhythmicContrast: 0.3725629
+layout_spectrum: 1
 name: jjamardo
