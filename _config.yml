@@ -1,0 +1,14 @@
+layout_spectrum: 0.37524
+typography_spectrum: 0.9073816
+color:
+  saturation: 0.1705821
+  lightness: 0.8898167
+  brandStrength: 0.863307
+  rhythmicContrast: 0.3725629
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: jjamardo
